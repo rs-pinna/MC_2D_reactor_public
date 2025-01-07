@@ -1,3 +1,5 @@
+Roberto S. Pinna 2024
+
 # MC_2D_reactor
 The Reactor class simulates the behavior of a nuclear reactor,
 specifically the transport of neutrons within the reactor.
